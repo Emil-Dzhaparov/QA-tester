@@ -40,11 +40,9 @@ SmokeТестирование
 
 Более подробный отчет о тестировании по ссылке ниже:
 
-https://emidzhaparov.atlassian.net/wiki/spaces/~63b41f452c70aae1e6fadb43/pages/5505031
+[https://emidzhaparov.atlassian.net/wiki/spaces/~63b41f452c70aae1e6fadb43/pages/5505031](https://emidzhaparov.atlassian.net/l/cp/Di0aivCd)
 
-логин: emidzhaparov@gmail.com
 
-пароль: BpGh226x
 
 Контактная информация
 
