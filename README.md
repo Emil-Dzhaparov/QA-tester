@@ -30,11 +30,8 @@ SmokeТестирование
 Регрессионное тестирование
 Тестирование API
 
-Ссылка на проект https://emidzhaparov.atlassian.net/wiki/spaces/~63b41f452c70aae1e6fadb43/pages/4259841
+Ссылка на проект [https://emidzhaparov.atlassian.net/wiki/spaces/~63b41f452c70aae1e6fadb43/pages/4259841](https://emidzhaparov.atlassian.net/l/cp/HB2Kh8PH)
 
-логин: emidzhaparov@gmail.com
-
-пароль: BpGh226x
 
 Выводы (итоги):
 1. При проведении UI тестирования продукт в принципе соответствует требованиям. Выпуск в релиз возможен.
