@@ -26,8 +26,11 @@ Jira, qase.io,SQL, Postman, Swagger, SoapUI, sitechco, PostgreSQL.
 Были проведены следующие виды тестирования:
 
 1.Функциональное (на уровне системы, на уровне интеграции, на уровне компонентов),
+
 2.SmokeТестирование,
+
 3.Регрессионное тестирование,
+
 4.Тестирование API,
 
 Ссылка на проект [https://emidzhaparov.atlassian.net/wiki/spaces/~63b41f452c70aae1e6fadb43/pages/4259841](https://emidzhaparov.atlassian.net/l/cp/HB2Kh8PH)
