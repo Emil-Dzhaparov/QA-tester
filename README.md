@@ -33,7 +33,7 @@ Jira, qase.io,SQL, Postman, Swagger, SoapUI, sitechco, PostgreSQL.
 
 4.Тестирование API,
 
-Ссылка на проект [https://emidzhaparov.atlassian.net/wiki/spaces/~63b41f452c70aae1e6fadb43/pages/4259841](https://emidzhaparov.atlassian.net/l/cp/HB2Kh8PH)
+Ссылка на проект в формате ПДФ https://disk.yandex.ru/client/disk/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%201
 
 
 Выводы (итоги):
@@ -41,9 +41,9 @@ Jira, qase.io,SQL, Postman, Swagger, SoapUI, sitechco, PostgreSQL.
 2. При проведении Регрессионного тестирования выявлено, что ранний функционал был "сломан" что делает невозможным релиз данного продукта.
 3. Тестирования API показало, что система возвращает корректные ответы на запросы. 
 
-Более подробный отчет о тестировании по ссылке ниже:
+Более подробный отчет о тестировании по ссылке ниже в формате ПДФ:
 
-[https://emidzhaparov.atlassian.net/wiki/spaces/~63b41f452c70aae1e6fadb43/pages/5505031](https://emidzhaparov.atlassian.net/l/cp/Di0aivCd)
+https://disk.yandex.ru/client/disk/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%201
 
 В ходе проведения работ над данным провектом были получены такие навыки как:
 1. проведение различных видов тестирования. Например: Функционалльное, Smoke, Регрессионное, Тестирование API.
