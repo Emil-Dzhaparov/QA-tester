@@ -33,7 +33,9 @@ Jira, qase.io,SQL, Postman, Swagger, SoapUI, sitechco, PostgreSQL.
 
 4.Тестирование API,
 
-Ссылка на проект в формате ПДФ https://disk.yandex.ru/client/disk/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%201
+Ссылка на проект в формате ПДФ 
+
+https://disk.yandex.ru/d/3d0ib2oFoNG2GA
 
 
 Выводы (итоги):
@@ -43,7 +45,7 @@ Jira, qase.io,SQL, Postman, Swagger, SoapUI, sitechco, PostgreSQL.
 
 Более подробный отчет о тестировании по ссылке ниже в формате ПДФ:
 
-https://disk.yandex.ru/client/disk/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%201
+https://disk.yandex.ru/d/3d0ib2oFoNG2GA
 
 В ходе проведения работ над данным провектом были получены такие навыки как:
 1. проведение различных видов тестирования. Например: Функционалльное, Smoke, Регрессионное, Тестирование API.
